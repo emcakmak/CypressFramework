@@ -1,0 +1,15 @@
+{
+  "title": "\nAutomation Testing Practice\n",
+  "draggable": "#draggable",
+  "droppable": "#droppable",
+  "dropbox": "#droppable > p",
+  "animalDropdown": "#animals",
+  "fname": "#RESULT_TextField-1",
+  "lname": "#RESULT_TextField-2",
+  "phone": "#RESULT_TextField-3",
+  "country": "#RESULT_TextField-4",
+  "city": "#RESULT_TextField-5",
+  "email": "#RESULT_TextField-6",
+  "genderMale": "[value=Radio-0]",
+  "genderFemale": "#RESULT_RadioButton-7_1"
+}
